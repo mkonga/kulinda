@@ -1,0 +1,13 @@
+{
+  "name"       : "mkonga/kulinda",
+  "type"       : "library",
+  "description": "Library to protect namespace",
+  "keywords"   : [],
+  "license"    : "MIT",
+  "authors"    : [
+    {
+      "name" : "Daan van den Berg",
+      "email": "mkonga@doppy.nl"
+    }
+  ]
+}
